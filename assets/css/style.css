@@ -173,6 +173,11 @@ main {
     text-align: center;
 }
 
+#times h3 {
+    /* Override the heading color set in general styles */
+    color: #fafafa;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
